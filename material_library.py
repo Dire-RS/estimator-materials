@@ -12,5 +12,12 @@ MATERIALS = {
             "Rexel": 59.54,
             "Home Depot": 78.00
         }
+    },
+    "2x4_wood": {
+        "name": "2x4 Wood",
+        "vendors": {
+            "Rexel": 
+            "Home Depot": 3.82
+        }
     }
 }
