@@ -1,5 +1,4 @@
-# material_library.py
-# Auto-generated / hand-edited material price list
+# material_library.py  – Auto-generated / hand-edited material price list
 
 MATERIALS = {
     "12_awg_thhn_500ft": {
